@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **PHP, JavaScript, HTML, Python**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/mourtsinoudis-thanos/](https://www.linkedin.com/in/mourtsinoudis-thanos/)
+- 👨‍💻 All of my projects are available at [linkedin.com/in/mourtsinoudis-thanos](https://www.linkedin.com/in/mourtsinoudis-thanos/)
 
 - 💬 Ask me about **HTML,PHP and CSS**
 
