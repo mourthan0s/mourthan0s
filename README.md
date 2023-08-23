@@ -1,4 +1,4 @@
-[![MasterHead]](https://static.vecteezy.com/system/resources/previews/000/344/502/original/web-development-banner-computer-with-window-a-computer-with-a-browser-window-studying-different-programming-languages-vector-flat-line-ilustration.jpg)
+[![MasterHead](https://static.vecteezy.com/system/resources/previews/000/344/502/original/web-development-banner-computer-with-window-a-computer-with-a-browser-window-studying-different-programming-languages-vector-flat-line-ilustration.jpg)]
 <h1 align="center">Hi 👋, I'm Mourtsinoudis Thanos</h1>
 <h3 align="center">A passionate frontend developer from Greece</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
